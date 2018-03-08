@@ -2,3 +2,4 @@
 def prime
   puts prime returns to
   number
+end
